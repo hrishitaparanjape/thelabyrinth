@@ -1,0 +1,1 @@
+This is an escape room game, made on Scratch for a high school project in freshmen year. You must answer questions and/or riddles based on Greek mythology. If you get a certain number of question wrong you reset to the beginning of the maze and have to redo all your work. The goal is to acquire the Parthenon at the end of the maze. Good Luck!
